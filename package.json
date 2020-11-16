@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/NikkiHmltn/layouts-and-controllers/issues"
   },
-  "homepage": "https://github.com/NikkiHmltn/layouts-and-controllers#readme"
+  "homepage": "https://github.com/NikkiHmltn/layouts-and-controllers#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
 }
